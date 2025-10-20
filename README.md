@@ -1,0 +1,1 @@
+A frontend-only Razorpay clone built with HTML, CSS, and JavaScript. This project replicates the UI/UX of Razorpay’s payment interface, showcasing responsive design, interactive elements, and a clean, modern payment page layout. Backend integration can be added later
